@@ -50,7 +50,6 @@ color_scheme: custom
 #       name: Tutorials
 
 # Build settings
-theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
 
