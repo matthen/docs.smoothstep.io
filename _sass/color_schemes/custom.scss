@@ -1,0 +1,34 @@
+$dt-gray-darker: #191a21;
+$dt-gray-dark: #282a36;  // Background
+$dt-gray: #44475a;       // Current Line & Selection
+$dt-gray-medium: #999db2;
+$dt-gray-light: #f8f8f2; // Foreground
+$dt-blue: #6272a4;       // Comment
+$dt-cyan: #8be9fd;
+$dt-green: #50fa7b;
+$dt-orange: #ffb86c;
+$dt-pink: #ff79c6;
+$dt-purple: #bd93f9;
+$dt-red: #ff5555;
+$dt-yellow: #f1fa8c;
+
+$body-background-color: $dt-gray-dark;
+$sidebar-color: $dt-gray-darker;
+$border-color: $dt-gray;
+
+$body-text-color: $dt-gray-light;
+$body-heading-color: $dt-gray-light;
+$nav-child-link-color: $dt-blue;
+$search-result-preview-color: $dt-gray-dark;
+
+$link-color: $dt-gray-light;
+$btn-primary-color: $dt-blue;
+$base-button-color: $dt-gray;
+
+$code-background-color: $dt-gray-dark;
+$search-background-color: $dt-gray-dark;
+$search-result-preview-color: $dt-gray-light;
+$table-background-color:$dt-gray-dark;
+$feedback-color: darken($sidebar-color, 3%);
+
+$header-height: 80px;

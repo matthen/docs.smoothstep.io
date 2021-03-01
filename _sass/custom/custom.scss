@@ -1,0 +1,64 @@
+// Misc
+
+
+.site-title {
+  display: flex;
+  flex-wrap: wrap;
+
+  div.logo {
+    padding-top: 8px;
+    font-family: 'Monda', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    text-shadow: 1px 1px 3px #000;
+
+    img {
+      margin-right: 4px;
+      display: inline;
+      vertical-align: baseline;
+      transform: translateY(16%);
+      width: 20px;
+    }
+
+    span.tld {
+      vertical-align: baseline;
+      font-size: 14px;
+      text-shadow: none;
+      font-weight: normal;
+      font-style: normal;
+    }
+  }
+
+  div.tagline {
+    padding-bottom: 8px;
+    font-size: 12px;
+    text-align: right;
+    width: 100%;
+  }
+
+  div.break {
+    width: 100%;
+  }
+}
+
+input {
+  color: $body-text-color;
+}
+
+::selection {
+  color: inherit;
+  background:  #44475a;
+}
+
+
+//
+// Code and syntax highlighting
+//
+// stylelint-disable selector-no-qualifying-type, declaration-block-semicolon-newline-after,declaration-block-single-line-max-declarations, selector-no-type, selector-max-type
+
+div.highlighter-rouge {
+  border: $border $border-color;
+}
+
+
+@import "dracula.scss";
