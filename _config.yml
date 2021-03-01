@@ -51,6 +51,7 @@ color_scheme: custom
 
 # Build settings
 theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 
 plugins:
