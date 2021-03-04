@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coding Specification
-permalink: /coding-Specification
+permalink: /coding-specification
 nav_order: 5
 description: "Specification of input uniforms and shader requirements."
 ---
