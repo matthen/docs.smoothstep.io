@@ -4,6 +4,7 @@ title: Home
 nav_order: 0
 description: "Documentation and tutorials for smoothstep.io - mathematical animation toolkit."
 permalink: /
+has_toc: true
 ---
 
 # Create and share mathematical animations
@@ -11,6 +12,11 @@ permalink: /
 
 {% include smoothstep.html %} is an animation toolkit, using the WebGL shader language.
 {: .fs-6 .fw-300 }
+
+
+[Tutorial](/tutorial){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Open {% include smoothstep.html no_link=true %}](//smoothstep.io){: .btn .btn-secondary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 
 
 <div class="featureList">
@@ -28,9 +34,6 @@ permalink: /
   </div>
 </div>
 
-
-[Open {% include smoothstep.html no_link=true %}](https://smoothstep.io/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Tutorial](/tutorial){: .btn .btn-secondary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
