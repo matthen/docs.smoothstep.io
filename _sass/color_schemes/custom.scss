@@ -18,7 +18,7 @@ $border-color: $dt-gray;
 
 $body-text-color: $dt-gray-light;
 $body-heading-color: $dt-gray-light;
-$nav-child-link-color: $dt-blue;
+$nav-child-link-color: $dt-gray-medium;
 $search-result-preview-color: $dt-gray-dark;
 
 $link-color: $dt-gray-light;
@@ -28,7 +28,7 @@ $base-button-color: $dt-gray;
 $code-background-color: $dt-gray-dark;
 $search-background-color: $dt-gray-dark;
 $search-result-preview-color: $dt-gray-light;
-$table-background-color:$dt-gray-dark;
-$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $dt-gray-darker;
+$feedback-color: $body-background-color;
 
 $header-height: 80px;

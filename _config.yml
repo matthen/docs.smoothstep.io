@@ -23,8 +23,14 @@ email: matt@smoothstep.io
 description: >-
   smoothstep.io is a toolkit for creating animations in the WebGL shader language.
   Documentation, tutorials, and guides.
+tagline: Documentation for the smoothstep.io animation toolkit.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://docs.smoothstep.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter:
+  username: matthen2
+  card: summary
+logo: /images/logo.png
+
 
 aux_links:
   "Open smoothstep.io":
@@ -35,17 +41,12 @@ gh_edit_link: false
 color_scheme: custom
 
 # collections:
-#   docs:
-#     permalink: "/:collection/:path/"
-#     output: true
 #   tutorials:
 #     permalink: "/:collection/:path/"
 #     output: true
 #
 # just_the_docs:
 #   collections:
-#     docs:
-#       name: Documentation
 #     tutorials:
 #       name: Tutorials
 
@@ -54,7 +55,7 @@ remote_theme: pmarsceill/just-the-docs
 
 
 plugins:
-  #- jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
