@@ -15,5 +15,5 @@ This is a list of example animations, that demonstrate different aspects of anim
 * [Fractals](https://smoothstep.io/anim/70bef4ffb215)
 * [Using textures](https://smoothstep.io/anim/b2482911f435)
 * [Using the animation timeline](https://smoothstep.io/anim/adb1df38284c)
-* [3D ray marching](https://smoothstep.io/anim/f9ad362373e4)
+* [3D ray tracing](https://smoothstep.io/anim/f9ad362373e4)
 * [Stateful animations - iPrevFrame](https://smoothstep.io/anim/26d46785c1f6)
