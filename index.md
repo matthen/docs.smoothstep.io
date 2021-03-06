@@ -26,7 +26,7 @@ has_toc: true
   </div>
   <div class="card">
     <h3>animation timeline</h3>
-    <p>for easy visual control of animation parameter.</p>
+    <p>for easy visual control of animation parameters.</p>
   </div>
   <div class="card">
     <h3>image upload</h3>
