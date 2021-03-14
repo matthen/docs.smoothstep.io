@@ -69,4 +69,8 @@ The `smoothstep` transition uses a sigmoidal curve to smoothly interpolate the v
 
 Note you can change the total duration of the animation, either by editing the value next to the play bar under the canvas, or by dragging the end of the timeline in the *Animation* tab.
 
+## Video resolution
+
+You can change the aspect ratio of the animation by mousing over the animation, and selecting a different value in the top left. When you export the animation, you are able to set the width of the export in pixels to any value. While you edit the code, the animation automatically scales to fit your screen size. Try minimizing the tabs at the bottom to give more screen space to the editor and animation canvas.
+
 [Next](/tutorial/drawing-a-circle){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
